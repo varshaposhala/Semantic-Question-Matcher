@@ -1,0 +1,2426 @@
+You want to create a carousel that automatically cycles through images. However, your current setup doesn't work as intended. What's missing?<br>
+You want to create a carousel in Bootstrap. Which class would you apply to make a carousel slide automatically?<br>
+You want to align your items to the end of the flex container, but your current setup does not work. What's wrong with this code?<br>
+You want to align your items to the start of the flex container, but they are not appearing as intended. What's wrong with this code?<br>
+what is the background color of the button ?<br>
+Which of the following statements is true about the given code snippet?<br>
+You want to apply padding to an element using Bootstrap utilities, but it's not working. What's wrong with this code?<br>
+You are designing a pricing page for a service. The client wants the 'premium plan' section to have a distinct green background to differentiate it from other plans. Which Bootstrap class would you use?<br>
+Identify the correct usage of Bootstrap text color classes ? <br>
+Consider the following code snippet which color is applied to the paragraph element?<br>
+You want to create a link that points to a specific section on the same page, but it's not working. What's wrong with your code?<br>
+what is the output for the following code snippet?<br>
+What will be the output of the following HTML code?<br>
+What will be the color of the paragraph text inside the div with the class 'container'?<br>
+What will be the font size of the span element inside the paragraph?<br>
+Which elements will be selected by the CSS rule?<br>
+You want to set a background image for a div. Which CSS property would you use?<br>
+How can the text be modified to align it centrally and color it green, without specifying the content?<br>
+What will be the width of the div element given below?<br>
+What will the output of this code be?<br>
+What type of CSS is the following code snippet?<br>
+"As a web designer assigned with incorporating a blur effect using SVG markup filters.
+ How can you leverage this filter within the CSS filter property?<br>"
+In the below code snippet, in what order will the margins be added?<br>
+You want to create space around an image, outside of its border. Which CSS property would you use?<br>
+"You want to apply a font family to a section of your webpage and underline the text. However, you notice that the text remains unstyled. What could be the reason for this? 
+<br>"
+You have an image that you want to display in a circular shape. Which CSS properties should you use to achieve this effect?<br>
+Anna wants to align her flex items to the center of the Flexbox Container horizontally. Which class should she add to the following code?<br>
+Which of the following statement is true regarding the given code snippet?<br>
+Lily is designing the footer of her website and wants to apply a border width of 2px. She wrote the following CSS code. What will be the result of this CSS code?<br>
+You are styling the "Favorite Places" section of your website. You want to create a flex container and display the items vertically with some spacing between them. Which set of classes should you add in place of "?" for the following HTML code to achieve this layout?<br>
+Mark is creating a special highlight effect for the text inside a <p> element. He wants the border to be made up of small dots. He starts writing the CSS code as follows:  Which value should Mark use to achieve a dotted border?  <br>
+Which part of the following code makes the link open in a new tab?<br>
+"You are creating a navigation menu on your webpage. You want to link to an external page called ""about.html"". You have the following code:
+What will happen when you click on ""about us"".<br>"
+"Lisa wants to display an image of the Eiffel Tower on her webpage using the HTML <img> element. She found the image URL and wrote the following code:
+What does the src attribute in this code do?<br>"
+Which of the following statement is true for this code Snippet<br>
+You want to create an image that serves as a clickable link to an external website. You write the following code. What will occur when you click on the image?<br>
+"Sophia wants to include an image of the Taj Mahal in her website. She has the following code snippet:
+
+She now wants to add some space around the image . Which CSS code will provide a 20-pixel space on all sides of the image?
+
+<br>"
+What will be the output for this code<br>
+You are using Bootstrap and want to center an image within a flex container. Which classes should you use in place of "?"  for the following code?<br>
+"Kevin is studying HTML void elements and understands that these elements do not have a closing tag. 
+
+Which of the following statements is true about the given code snippet?   <br>"
+Which property is responsible for the space between the content and its border in the following code snippet?<br>
+You want to apply margin utilities in Bootstrap to create space between two paragraphs. However, your current implementation isn't working as intended. What's wrong with this code?<br>
+What will be the color of the text inside an element with class 'primary-text'?<br>
+Is the following code is valid for declaring multiple class names<br>
+You want to set a background color and an image for your webpage. However, the background color does not appear. What's wrong with this CSS code?<br>
+Which CSS property value will be effective for the 'note' class?<br>
+Given the HTML and CSS code, what color will the text 'Hello World!' be displayed as?<br>
+What will be the background color of the paragraph with the id 'highlight'?<br>
+What will be the final computed margin for the element with the class 'container'?<br>
+What will be the size of the font for the paragraph with the id 'info'?<br>
+What will be the display style of the element with the id 'unique'?<br>
+How will the text 'Special' be formatted inside the span element?<br>
+Which CSS rule will apply to the div with the class 'box'?<br>
+What will be the font style of the text within the element having both 'new' and 'featured' classes?<br>
+If there is a conflict between the style of an id and a class, which one will take precedence?<br>
+You want to set the text color of a heading to red. Which CSS property should you use?<br>
+Given the HTML and CSS code below, what will be the color of the paragraph text inside the div with class 'container'?<br>
+What will be the result of the following CSS selector combination?<br>
+What will be the color of the header text in the following code?<br>
+What will be the color of the span inside the section in the following code?<br>
+Which element will be selected by the CSS rule in the following code?<br>
+Which CSS rule has higher specificity and will apply to the paragraph in the following code?<br>
+How will the following CSS affect the nested list items?<br>
+What will be the display style of the '.hidden' element in the following code?<br>
+In the following code, which element will be affected by the ':last-of-type' pseudo-class?<br>
+Which of the following elements will be selected by the CSS rule '.box:not(:first-child)' in the following code?<br>
+How do you create a CSS rule that applies to all paragraphs inside elements with class 'content' but not to paragraphs inside elements with id 'special'?<br>
+How can you vertically center an element with class 'centered' inside a container?<br>
+Given the following HTML and CSS, what color will the text inside the element with id 'special-item' be?<br>
+What will happen if you set an element's width to 100% and also apply a padding of 20px with box-sizing set to content-box?<br>
+What is the effect of applying 'position: absolute;' to an element inside a relatively positioned parent?<br>
+What is the result of applying 'overflow: hidden;' to a container with overflowing content?<br>
+You want to make the text bold inside a paragraph. Which CSS property would you use?<br>
+You are working on a landing page, and the client wants the headings to be in all uppercase letters to create a bold, strong impression. Which CSS property would you use?<br>
+You are working on a webpage where you need to underline a specific heading. Which CSS property should you use?<br>
+Which of the following statement is true regarding the given  CSS code?<br>
+You want to create a hyperlink that opens in a new tab. Which attribute would you use?<br>
+You want to create a link that points to a section on the same page. However, your code isn't jumping to the section when clicked. What's wrong?<br>
+You need to create a clickable link that opens in a new tab. However, your code isn't working as expected. What's wrong with this HTML?<br>
+You want to create a link that points to an external site, but your code is incorrect. What's wrong with this code?<br>
+You want to create a hyperlink that appears as a Bootstrap button. Which class should you add to your anchor tag?<br>
+What is the output for the following code snippet?<br>
+Which of the following statements is true regarding the given code Snippet?<br>
+You want to create a link that opens a new page in the same tab. However, your code does not achieve that. What's wrong?<br>
+What will be the result of clicking the hyperlink in the following HTML code?<br>
+Is the following Code snippet creates ordered list?<br>
+which of the following statements are true ?<br>
+You want to create a list of items that appear in a specific order. However, your list isn't appearing numbered. What's wrong with this code?<br>
+which of the following statement is valid for the code snippet ?<br>
+How output will be formated for the following code Snippet?<br>
+You want to display a list of frequently asked questions in a numbered format. Which HTML tag should you use?<br>
+This syntax refers to which stylesheet?<br>
+David has written a code in HTML5, but he has got an error in his code. Find the error in his table markup to help him.<br>
+You want to add a line break between two paragraphs. However, the second paragraph appears on the same line. What's wrong with your code?<br>
+You need to insert an image into an HTML page, but it doesn't require a closing tag. Which HTML tag should you use for the following code snippet?<br>
+You want to insert an image into your webpage, but the image isn't appearing. What's wrong with this HTML?<br>
+"Which of the given options is correct for the CSS code below? 
+
+```
+margin: 25px 50px 75px 100px;
+```"
+"What will be the left margin of the `<p>` element with id ""ex1"" in the given HTML code?
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            p.ex1{margin-left:300px;}
+            p#ex1{margin-left:500px;}
+        </style>
+    </head>
+    <body>
+        <p id=""ex1"">This is paragraph 1.</p>
+        <p class=""ex1"">This is paragraph 2.</p>
+    </body>
+</html>
+```"
+If the developer wants to display the chemical formula of oxygen, which CSS property should they use?
+A button group in a component element of Bootstrap 4 has a z-index of 2. In the given context, which of these statements would be valid?
+What is the syntax for writing comments in CSS?
+What is CSS?
+What is the full form of CSS?
+You are designing an email template and need to create a fixed-width layout that will display consistently across different email clients and devices. Which CSS unit is most suitable for specifying widths in an email template?
+What type of CSS is generally recommended for designing large web pages?
+How many different ways can CSS be written?
+How can we select elements with a specified attribute in CSS?
+Which of the following is NOT a CSS framework?
+How many different ways can CSS be added to HTML?
+"In a project where you need to style an unordered list by eliminating the bullets from the list items using CSS.
+
+Which CSS rule should be applied to effectively remove bullets from the list items?"
+Which type of CSS is generally recommended for large web page design?
+Which property is used to change the element's `background color`?
+You want to generate a report that covers the entire width of the container. Which of the following code snippets should you use?
+How can you create a grid with three columns of equal width using CSS grid?
+How many colors does CSS Support?
+Which of the following is not a benefit of bootstrap?
+Which CSS property is used to create a three-dimensional effect by adding a shadow below and to the right of an element?
+If 'border-width: 5px 15px;' is applied to an element, which borders will have the width of 15px?
+How do you modify a border using CSS3?
+How many different border widths will be displayed if the property is set as 'border-width: 6px 8px;'?
+Given 'border-style: dashed double dotted solid;', which border will not have a style applied from this property?
+What does the 'border-radius' property do in CSS?
+What is the correct syntax of border property in CSS?
+If an element has 'border-width: 3px 4px 5px;', which border will be 3px wide?
+What happens if you set 'border-width: 1px 2px 3px 4px;' and forget to declare 'border-style'?
+Assuming 'border-style' is set, what is the correct order of borders from thinnest to thickest when 'border-width: 2px 4px 6px 8px;' is applied?
+Which CSS property would you use to round only the top-left corner of an element?
+Which statement is true when 'border-width: 10px 20px 30px;' is set for an element?
+You are developing a web page. You want the word "Hello" to appear on the page with an opaque border around it. Which of the following code snippets should you use?
+What will happen if the border-color property is not explicitly set for an element?
+You want to display the word “Hello” inside a span tag. You want the span tag to have only top and bottom borders. Which of the following code snippets should you use?
+Can you use separate properties to set different radius values for each corner of an HTML element?
+"How can you create a border with the following specifications:
+
+Top border: 10 pixels
+Bottom border: 5 pixels
+Left border: 20 pixels
+Right border: 1 pixel?"
+Which statement is true when 'border-style: double dashed solid;' is set?
+How can you add a border with a defined width, style, and color to a text element on your webpage?
+To ensure that a container's children do not overflow the container's bounds, which property would be the best fit?
+If you want to apply a 20px radius to all corners of a button, which CSS property would be appropriate?
+Which of the following is a correct way to set a border color to transparent?
+If 'border-style: solid dashed;' is applied to an element, which borders will be dashed?
+"You are designing a website and want to align an element in the
+center of its container both horizontally and vertically. You
+decide to use CSS box alignment properties.
+
+####Which of the following CSS properties should you apply to the container element to achieve this?"
+When the padding properties are shorthand properties, which of the following is used?
+"You have a parent element with two child elements. The child elements are floated, but the parent element is not expanding its height to contain them.
+What can you add to the parent element's CSS to ensure it expands its height and contains the floated child elements?"
+Which of the following is a correct way to set different padding for all four sides of an element?
+"While designing a website you want to align an element in the center of its container both horizontally and vertically. You decided to use CSS box element properties.
+
+Which of the following CSS properties should you apply to the container to achieve the outcome?"
+Given a <div> with a class of "box", which CSS rule will make the div a circle?
+Which CSS property specifies the spacing between letters inside an element?
+What is the correct formula for calculating the total height of an element in the CSS Box Model?
+When using CSS padding, can negative values be used?
+Negative values can be allowed for padding property.
+Which CSS property is used to specify the maximum width of the element's content box?
+To start each word of a sentence with a capital letter, which CSS syntax is correct?
+What is the result of setting a single value in the padding shorthand property, such as padding: 20px?
+When it comes to the padding property, are negative values permitted?
+You are customizing a button on your website and want to add space between the text inside the button and its border. Which CSS property would you use to achieve this?
+Which component of the CSS Box Model is directly affected when setting the 'height' property?
+Your website's layout has a sidebar and a main content area. You want both elements to be side by side using the display and/or float properties in CSS. Which of the following CSS rule sets would achieve this desired layout?
+How would you make an element with the class box occupy the remaining height of its parent container?
+In the CSS box model, which property is responsible for the space outside the border?
+"As a web designer, your assignment involves arranging a collection of images in a horizontal alignment to the right within their container, utilizing CSS box alignment properties.
+
+What property should you set on the container element to achieve the horizontal alignment of the images to the right?"
+In CSS before the Flexbox Layout Module was introduced, how many layout modes were there?
+If the padding shorthand property has three values, such as padding: 15px 30px 45px, what is the left padding?
+Which of the following are parts of the CSS box model?
+Which of the following properties is used as a shorthand for margin properties in CSS?
+How can you maintain the actual width of an element when padding is added?
+If a content area is set to 100px width with 10px padding and 1px border, what is the total width of the element?
+Which CSS property does not contribute to the box model's calculation of an element's total width?
+Which of the following is valid colour code ?
+Which of the following is not a valid way to represent colors in CSS?
+What does the 'H' in HSL stand for?
+Which of the following are valid ways to represent a colour in CSS?
+"What is the function of the final component in an RGBA function in CSS?
+```
+{background-color:rgba(0,255,0,0,0.3);}
+```"
+"Below you can see a table layout. This layout has been created only using “div” elements. How can you style this with CSS?
+
+| Header01  | Header02  | Header03 |
+| -------------------------------- |
+| Item01    | Item02    | Item03   |
+| Item04    | Item05    | Item06   |
+| Item07    | Item08    | Item09   |
+| Item10    | Item11    | Item12   |"
+Which CSS property is used to add text shadows?
+The CSS property that specifies how a text's last line should be aligned?
+What CSS property allows a marquee to be used in the case of a text overflow?
+In CSS, how do we specify the spacing between each letter in a text?
+What is the standard text size for paragraphs?
+Which CSS statement should be used to define multiple font families?
+Which of the following CSS properties represents overflowed text?
+What is the correct syntax for displaying hyperlinks without underlining?
+What is the use of font-weight property?
+Which CSS property adds a stroke to the text?
+How are custom fonts defined using CSS?
+What are the valid text-transform property values?
+Which of the following CSS property is used to make the text **bold**?
+What are the valid values of font-style property?
+What are the possible values for the `"text-decoration"` property?
+Which `CSS property` controls the `font-size` of an element?
+Which CSS property is used, to make a text italic?
+What are the valid vertical-align property values?
+"If the .menu-item-card has a class 'p-0', what will be the padding applied to it?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""menu-item-card shadow p-0 mb-3""></div>
+</body>
+</html>
+```"
+"which of the following statement is true for the below code snippet
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+    <div class=""container"">
+        <div class=""row"">
+            <div class=""col-md-4 shadow-sm menu-item-card p-3 mb-3"">
+                <!-- Content here -->
+            </div>
+        </div>
+   </div>
+</body>
+</html>
+```"
+"How does the use of Bootstrap shadow utility classes affect the accessibility of a web page?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+    <div class=""shadow p-3 mb-5 bg-white rounded"">Accessible Shadow?</div>
+</body>
+</html>
+```"
+"Analyze the following HTML and Bootstrap code snippet. Which of the following statements are true regarding the Bootstrap Icons usage and responsive design?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""container"">
+    <div class=""row"">
+      <div class=""col-md-4 text-center"">
+        <i class=""fas fa-home fa-3x""></i>
+        <p>Home</p>
+      </div>
+      <div class=""col-md-4 text-center"">
+        <i class=""fas fa-envelope fa-3x""></i>
+        <p>Contact</p>
+      </div>
+      <div class=""col-md-4 text-center"">
+        <i class=""fas fa-info fa-3x""></i>
+        <p>About</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+```"
+"If the 'p-0' class is added to the .menu-item-card elements, what will be the resulting padding on a small device?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""menu-item-card shadow p-3 mb-3""></div>
+</body>
+</html>
+```"
+"Given the Bootstrap grid system and responsive design principles, what will be the behavior of the menu-item-card elements on different screen sizes?
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""container"">
+  <div class=""row"">
+    <div class=""col-12 col-md-6 col-lg-3"">
+      <div class=""menu-item-card shadow p-3 mb-3"">
+        <!-- Content here -->
+      </div>
+    </div>
+    <!-- Repeated for each menu item -->
+  </div>
+</div>
+</body>
+</html>
+```
+```css 
+
+.menu-item-card {
+  border-radius: 8px;
+  background-color: #fff;
+
+}
+
+```"
+"Considering Bootstrap's responsive image classes, what is the expected behavior of the menu-item-image class when the viewport size changes?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<img src=""path/to/image.png"" class=""menu-item-image w-100"" />
+</body>
+</html>
+```
+
+
+```css 
+
+.menu-item-card {
+  border-radius: 8px;
+  background-color: #fff;
+
+}
+
+```"
+"What will be the visual output when the following HTML code is rendered in a browser?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+  <p>Regular text and <span class=""highlight"">highlighted text</span>.</p>
+</body>
+</html>
+```
+
+```css
+
+  .highlight { color: red; }
+
+
+```"
+"How will the Bootstrap responsive utilities affect the display of the icon in the following code?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""d-none d-md-block"">
+    <svg class=""bi bi-bell"" width=""32"" height=""32"" viewBox=""0 0 16 16"" fill=""currentColor"" xmlns=""http://www.w3.org/2000/svg"">
+      <path d=""M8 16a2 2 0 0 0 2-2H6a2 2 0 0 0 2 2z""/>
+      <path fill-rule=""evenodd"" d=""M8 14a.5.5 0 0 1 .5-.5h.9a2.5 2.5 0 0 0 4.9 0h.9a.5.5 0 0 1 .5.5z""/>
+      <!-- More paths here -->
+    </svg>
+  </div>
+</body>
+</html>
+```"
+"What will happen if the Bootstrap responsive image class 'img-fluid' is added to the menu-item-image?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""container"">
+<div class=""row"">
+<div class=""col-md-4 shadow p-3 mb-3"">
+<img src=""image.jpg"" class=""menu-item-image w-100"" />
+</div>
+</div>
+</div>
+</body>
+</html>
+```
+
+```css 
+
+.menu-item-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+
+```"
+"Given the following HTML code with embedded SVG, determine the correctness of the statements about the SVG's interactivity and styling.
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <svg width=""200"" height=""200"">
+  <rect x=""10"" y=""10"" width=""100"" height=""100"" class=""highlight"" fill=""blue"" />
+  <circle cx=""150"" cy=""150"" r=""50"" class=""highlight"" fill=""green"" />
+</svg>
+</body>
+</html>
+```
+
+```css
+ svg:hover .highlight { fill: red; }
+```"
+"Which Bootstrap grid class should be added to ensure that the menu-item-card elements stack vertically on extra small devices?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""container"">
+<div class=""row"">
+<div class=""col-md-4 shadow menu-item-card p-3 mb-3"">
+<!-- Content here -->
+</div>
+</div>
+</div>
+</body>
+</html>
+```"
+"What is the effect of the ':hover' pseudo-class on the span element in the following code?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+  <span>Hover over me!</span>
+</html>
+```
+
+```css
+span:hover { background-color: blue; }
+```"
+"If the viewport is less than 768 pixels, what will be the width of '.menu-item-card' due to the 'col-12' class?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""col-12 col-md-6 col-lg-3"">
+  <div class=""menu-item-card shadow p-3 mb-3"">
+    <!-- Content here -->
+  </div>
+</div>
+</body>
+</html>
+```"
+"How does the 'shadow' class in Bootstrap affect the appearance of '.menu-item-card'?
+
+```html
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+  <div class=""menu-item-card shadow p-3 mb-3"">
+  <!-- Content here -->
+</div>
+</body>
+</html>
+```"
+"Which Bootstrap shadow utility class would you use to remove any shadow effect from an element?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+    <div class=""shadow-none p-3 mb-5 bg-white rounded"">No Shadow</div>
+</body>
+</html>
+```"
+"Which CSS property is incorrectly applied to the span element in the following code?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <span>Underlined text</span></body>
+</html>
+```
+
+```css
+span { text-decoratoin: underline; }
+```"
+"Given the HTML and CSS code snippet, which of the following statements are true regarding Bootstrap Icons and responsive design?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""container"">
+    <div class=""row"">
+      <div class=""col-md-4 text-center"">
+        <i class=""fas fa-anchor fa-3x""></i>
+        <p>Maritime Services</p>
+      </div>
+      <div class=""col-md-4 text-center"">
+        <i class=""fas fa-briefcase fa-3x""></i>
+        <p>Business Solutions</p>
+      </div>
+      <div class=""col-md-4 text-center"">
+        <i class=""fas fa-heart fa-3x""></i>
+        <p>Healthcare</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+```"
+"In the following SVG code, what will be the effect of changing the 'stroke-width' attribute to '2' on the line element?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <svg height=""210"" width=""400"">
+  <line x1=""0"" y1=""0"" x2=""200"" y2=""200"" style=""stroke:rgb(255,0,0);stroke-width:1"" />
+</svg>
+</body>
+</html>
+```"
+"Given the Bootstrap grid system and responsive design principles, what will be the layout behavior of the menu-item-card elements on a medium-sized device?
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""container"">
+  <div class=""row"">
+    <div class=""col-12 col-md-6 col-lg-3"">
+      <div class=""menu-item-card shadow p-3 mb-3"">
+        <!-- Content here -->
+      </div>
+    </div>
+    <!-- Additional menu-item-card elements -->
+  </div>
+</div>
+</body>
+</html>
+```"
+"What is the effect of the Bootstrap shadow utility class on the menu-item-card elements, and how does it interact with the border-radius property?
+
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""menu-item-card shadow p-3 mb-3"">
+  <!-- Content here -->
+</div>
+</body>
+</html>
+```
+
+
+
+
+
+```css 
+
+.menu-item-card {
+  border-radius: 8px;
+  background-color: #fff;
+
+}
+
+```"
+"What is the effect of the Bootstrap flex utility classes in the following code on the layout of the icons?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""d-flex justify-content-between"">
+    <svg class=""bi bi-chat-dots"" width=""24"" height=""24"" viewBox=""0 0 16 16"" fill=""currentColor"" xmlns=""http://www.w3.org/2000/svg"">
+      <!-- Path elements here -->
+    </svg>
+    <svg class=""bi bi-chat-square-dots"" width=""24"" height=""24"" viewBox=""0 0 16 16"" fill=""currentColor"" xmlns=""http://www.w3.org/2000/svg"">
+      <!-- Path elements here -->
+    </svg>
+  </div>
+</body>
+</html>
+```"
+"What will be the visual effect on the menu-item-card elements if the Bootstrap shadow utility classes are removed?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""container"">
+<div class=""row"">
+<div class=""col-md-4"">
+<div class=""menu-item-card p-3 mb-3 shadow"">
+<!-- Content here -->
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+```"
+"What will be the visual output when the following HTML code is rendered in a browser?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+  <p>Regular text and <span class=""highlight"">highlighted text</span>.</p>
+</body>
+</html>
+```
+
+```css
+.highlight { color: red; }
+```"
+"Which Bootstrap class should be added to increase the left padding of the .menu-card-title element without affecting its right padding?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<h1 class=""menu-card-title pl-2"">Main Course</h1>
+</body>
+</html>
+```"
+"Which Bootstrap shadow utility class combination will correctly apply a shadow to only the top and left sides of an element?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""shadow-top shadow-left p-3 mb-5 bg-light rounded"">Top and Left shadow</div>
+</body>
+</html>
+```"
+"Given the Bootstrap grid system, what will be the width of  '.menu-item-card' on medium-sized devices?
+
+```html
+<div class=""row"">
+  <div class=""col-12 col-md-6 col-lg-3"">
+    <div class=""menu-item-card shadow p-3 mb-3"">
+      <!-- Content here -->
+    </div>
+  </div>
+  <!-- Repeated for each menu item -->
+</div>
+```"
+"Given the Bootstrap grid system and responsive utilities, what will be the layout behavior of the following code snippet on different screen sizes?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""container"">
+    <div class=""row"">
+      <div class=""col-lg-6 col-md-8 col-12"">
+        <p>Section A</p>
+      </div>
+      <div class=""col-lg-6 col-md-4 col-12"">
+        <p>Section B</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+```"
+"Given the Bootstrap shadow utility classes, which of the following will apply the largest shadow to an element?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+    <div class=""shadow-none p-3 mb-5 bg-light rounded"">No shadow</div>
+<div class=""shadow-sm p-3 mb-5 bg-light rounded"">Small shadow</div>
+<div class=""shadow p-3 mb-5 bg-light rounded"">Regular shadow</div>
+<div class=""shadow-lg p-3 mb-5 bg-light rounded"">Large shadow</div>
+</body>
+</html>
+```"
+"Which of the Following options is valid when the below code works on ""Extra Small Screen"" ?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""row"">
+  <div class=""col-12 col-md-6 col-lg-3 shadow p-3 mb-3""></div>
+  <div class=""col-12 col-md-6 col-lg-3  shadow p-3 mb-3""></div>
+  <div class=""col-12 col-md-6 col-lg-3  shadow p-3 mb-3""></div>
+  <div class=""col-12 col-md-6 col-lg-3 shadow p-3 mb-3""></div>
+</div>
+</body>
+</html>
+```"
+"Which of the following options is valid for the below HTML and CSS Code?
+
+```html
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+  <span>Text with zero font size</span>
+</body>
+</html>
+```
+
+```css
+
+
+  span { font-size: 0; }
+
+
+```"
+"What will be the result of adding 'text-decoration: underline;' to the '.menu-item-link' class in the provided HTML and CSS code?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+  <a href="""" class=""menu-item-link"">View All</a>
+</body>
+</html>
+```
+
+```css
+
+  .menu-item-link { color: #d0b200; }
+
+
+```"
+"Given the Bootstrap shadow utility classes, which class would you apply to an element to give it the largest shadow effect?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+    <div class=""shadow-lg p-3 mb-5 bg-white rounded"">Largest Shadow</div>
+</body>
+</html>
+```"
+"Analyze the following HTML code snippet that uses an SVG element. What will be the color of the arrow inside the SVG?
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <svg width=""16px"" height=""16px"" viewBox=""0 0 16 16"" class=""bi bi-arrow-right"" fill=""gold"" xmlns=""http://www.w3.org/2000/svg"">
+  <path
+    fill-rule=""evenodd""
+    d=""M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z""
+  />
+</svg>
+</body>
+</html>
+```"
+"If the Bootstrap shadow utility class 'shadow-none' is applied to the menu-item-card, what will be the result?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""container"">
+<div class=""row"">
+<div class=""col-md-4 shadow-none menu-item-card p-3 mb-3"">
+<!-- Content here -->
+</div>
+</div>
+</div>
+</body>
+</html>
+```"
+"Given the Bootstrap spacing utilities applied, what will be the visual effect on the .menu-item-card elements in a medium-sized viewport?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""menu-item-card shadow p-3 mb-3""></div>
+<div class=""menu-item-card shadow p-3 mb-3""></div>
+<div class=""menu-item-card shadow p-3 mb-3""></div>
+<div class=""menu-item-card shadow p-3 mb-3""></div>
+</body>
+</html>
+```"
+"How will the Bootstrap responsive image class affect the menu-item-image inside the menu-item-card on different screen sizes?
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""menu-item-card shadow p-3 mb-3"">
+  <img src=""image-source.jpg"" class=""menu-item-image w-100"" />
+  <!-- Additional content -->
+</div>
+</body>
+</html>
+```
+
+```css 
+
+.menu-item-card {
+  border-radius: 8px; 
+  background-color: #fff; 
+}
+
+
+.menu-item-image {
+  width: 100%; 
+  height: auto; 
+
+}
+```"
+"Given the Bootstrap icon usage in the HTML snippet, which statement is correct regarding the visual representation of the icons?
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<button class=""btn btn-primary"">
+    <svg class=""bi bi-alarm"" width=""1em"" height=""1em"" viewBox=""0 0 16 16"" fill=""currentColor"" xmlns=""http://www.w3.org/2000/svg"">
+      <path d=""M8 16a2 2 0 0 0 2-2H6a2 2 0 0 0 2 2zm-1-5a1 1 0 0 1-2 0V7a1 1 0 0 1 2 0v4zm1 0a1 1 0 0 1 2 0V7a1 1 0 0 1-2 0v4z""/>
+      <path fill-rule=""evenodd"" d=""M8 3.5a6.5 6.5 0 0 0-6.5 6.5 .5.5 0 0 1-1 0 7.5 7.5 0 1 1 15 0 .5.5 0 0 1-1 0A6.5 6.5 0 0 0 8 3.5z""/>
+    </svg>
+    Alarm
+  </button>
+</body>
+</html>
+```"
+"Analyze the following HTML snippet with Bootstrap classes. What can be inferred about the specificity and visibility of the elements with multiple classes?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""d-none d-sm-block d-md-none"">Visible on sm screens only.</div>
+<div class=""d-none d-lg-block"">Visible on lg screens and larger.</div>
+<div class=""d-none d-xl-block"">Visible on xl screens only.</div>
+</body>
+</html>
+```"
+"Given the HTML structure with Bootstrap classes, which of the following statements are true regarding the positioning of the navbar?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <nav class=""navbar navbar-expand-lg navbar-light bg-white fixed-top"">
+    <!-- Navbar content -->
+  </nav>
+  <!-- Other content -->
+</body>
+</html>
+```"
+"Given the HTML structure with Bootstrap classes, which element will be hidden on small devices?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""container"">
+  <div class=""row"">
+    <div class=""col-md-6 d-sm-none"">Content A</div>
+    <div class=""col-md-6"">Content B</div>
+  </div>
+</div>
+</body>
+</html>
+```"
+"Given the HTML structure with Bootstrap classes, which of the following statements are true regarding the display utilities and specificity?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""d-sm-none d-md-block"">Visible starting from medium devices</div>
+  <div class=""d-md-none d-lg-block"">Hidden on medium devices</div>
+  <div class=""d-xl-none"">Hidden on extra large devices</div>
+</body>
+</html>
+```"
+"Which element will be positioned in the middle on a viewport width over 1200px, given the following code?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""d-flex flex-wrap"">
+  <div class=""p-2 order-2 order-xl-1"">Item 1</div>
+  <div class=""p-2 order-3 order-xl-3"">Item 2</div>
+  <div class=""p-2 order-1 order-xl-2"">Item 3</div>
+</div>
+</body>
+</html>
+```"
+"Which Bootstrap class combination ensures that an element is visible only on large and extra-large devices?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""d-lg-block d-xl-none"">A</div>
+<div class=""d-none d-lg-block"">B</div>
+<div class=""d-lg-none"">C</div>
+<div class=""d-block"">D</div>
+</body>
+</html>
+```"
+"Analyze the given HTML code utilizing Bootstrap classes. Evaluate the correctness of the statements about the behavior of the d-sm-none class and other responsive display utilities.
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""d-sm-none d-md-block"">Visible on md screens and larger.</div>
+<div class=""d-none d-lg-block"">Visible on lg screens and larger.</div>
+<div class=""d-none d-xl-block"">Visible on xl screens only.</div>
+</body>
+</html>
+```"
+"Analyze the following code snippet. Which statement is true regarding the border-radius applied to the '.menu-item-card' elements?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""menu-item-card shadow""></div>
+</body>
+</html>
+```
+```css
+ .menu-item-card {
+  border-radius: 16px;
+}
+.shadow {
+  border-radius: 0;
+}
+.menu-item-card.shadow {
+  border-radius: 8px;
+}
+```"
+"Which of the following statements is true regarding the stacking context of an element with the 'fixed-top' class in Bootstrap?
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+  <div class=""fixed-top"">Fixed Content</div>
+  <div>Regular Content</div>
+</body>
+</html>
+```"
+"Analyze the following HTML snippet and determine which statements are true regarding the Bootstrap navigation links and their behavior:
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<nav class=""navbar navbar-expand-lg navbar-light bg-light"">
+    <div class=""container"">
+      <a class=""navbar-brand"" href=""#home"">Brand</a>
+      <div class=""collapse navbar-collapse"" id=""navbarNav"">
+        <ul class=""navbar-nav"">
+          <li class=""nav-item active"">
+            <a class=""nav-link"" href=""#features"">Features<span class=""sr-only"">(current)</span></a>
+          </li>
+          <li class=""nav-item"">
+            <a class=""nav-link"" href=""#pricing"">Pricing</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div id=""home"">Home Section</div>
+  <div id=""features"">Features Section</div>
+  <div id=""pricing"">Pricing Section</div>
+</body>
+</html>
+```"
+"What will be the visibility of the image with the class 'thanking-customers-section-img' on a medium-sized device screen?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""col-12 col-md-7 d-flex flex-column justify-content-center"">
+  <div class=""d-md-none"">
+    <img
+      src=""image-source.png""
+      class=""thanking-customers-section-img""
+    />
+  </div>
+</div>
+</body>
+</html>
+```"
+"What is the default visual order of flex items without any order classes applied in Bootstrap?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""d-flex"">
+  <div>First</div>
+  <div>Second</div>
+  <div>Third</div>
+</div>
+</body>
+</html>
+```"
+"Given the HTML structure with Bootstrap classes, which element will be displayed as a flex container?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""container"">
+  <div class=""row"">
+    <div class=""col-sm d-flex"">
+      <p>Flex item</p>
+    </div>
+    <div class=""col-sm"">
+      <p>Non-flex item</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>
+```"
+"Examine the HTML code and determine the outcome when trying to use a Font Awesome icon with a Bootstrap button:
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<button class=""btn btn-primary"">
+    <i class=""fas fa-shopping-cart""></i> Add to Cart
+  </button>
+</body>
+</html>
+```"
+"Given the following HTML structure with Bootstrap classes, which element will appear first on the page?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""d-flex"">
+  <div class=""p-2 order-3"">First</div>
+  <div class=""p-2 order-1"">Second</div>
+  <div class=""p-2 order-2"">Third</div>
+</div>
+</body>
+</html>
+```"
+"How will the following Bootstrap  classes affect the alignment of flex items within a container?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""d-flex justify-content-between align-items-center"">
+  <div>First item</div>
+  <div>Second item</div>
+  <div>Third item</div>
+</div>
+</body>
+</html>
+```"
+"If a flex item has multiple order classes, which one will take precedence in Bootstrap?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""d-flex"">
+  <div class=""p-2 order-1 order-4"">First</div>
+  <div class=""p-2 order-2"">Second</div>
+</div>
+</body>
+</html>
+```"
+"What will be the visibility of the following elements on a medium-sized device?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""container"">
+  <div class=""d-none d-md-block"">Element X</div>
+  <div class=""d-sm-none d-md-block"">Element Y</div>
+</div>
+</body>
+</html>
+```"
+"Given the following HTML structure with Bootstrap classes, what will be the visual result of the '.fixed-bottom' and '.bg-danger' classes applied to the footer?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""content"">
+    <!-- Content goes here -->
+  </div>
+  <footer class=""fixed-bottom bg-danger text-white p-3"">
+    This is a fixed bottom footer with a red background.
+  </footer>
+</body>
+</html>
+```"
+"Given the HTML structure with Bootstrap  classes, which of the following statements are true regarding the flex properties applied to the elements?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""d-flex flex-column justify-content-between"">
+  <div class=""p-2"">Flex item 1</div>
+  <div class=""p-2"">Flex item 2</div>
+  <div class=""p-2"">Flex item 3</div>
+</div>
+</body>
+</html>
+```"
+"Examine the HTML and CSS code provided. If an element with the class 'fixed-bottom' is added to the HTML, what would be the expected behavior?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <!-- Existing content -->
+  <div class=""fixed-bottom"">This is a fixed bottom element.</div>
+</body>
+</html>
+```"
+"Given the Bootstrap classes applied, which elements will be hidden on a medium-sized device?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""d-md-none"">This is a div element.</div>
+<span class=""d-md-none"">This is a span element.</span>
+<p class=""d-none d-md-block"">This is a paragraph element.</p>
+<section class=""d-block"">This is a section element.</section>
+</body>
+</html>
+```"
+"Given the HTML structure with Bootstrap classes, which element will be fixed at the top of the page when scrolling?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+  <header class=""bg-light fixed-top"">Header Content</header>
+  <main class=""container mt-5 pt-5"">Main Content</main>
+  <footer class=""bg-dark"">Footer Content</footer>
+</body>
+</html>
+```"
+"Which Bootstrap class combination correctly hides an element only on medium and large devices?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""option-a d-none d-md-block d-lg-none""></div>
+<div class=""option-b d-md-none d-lg-block""></div>
+<div class=""option-c d-none d-lg-block""></div>
+<div class=""option-d d-lg-none""></div>
+</body>
+</html>
+```"
+"What will be the visual order of the div elements with classes .order-1, .order-3, and .order-2 when applied with Bootstrap's flex utility order classes?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""d-flex"">
+  <div class=""order-1"">First</div>
+  <div class=""order-3"">Second</div>
+  <div class=""order-2"">Third</div>
+</div>
+</body>
+</html>
+```"
+"Given the HTML structure with Bootstrap classes, which elements will be hidden on medium-sized devices?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""container"">
+  <div class=""row"">
+    <div class=""col-12 d-md-none"">A</div>
+    <div class=""col-12 d-none d-md-block"">B</div>
+    <div class=""col-12"">C</div>
+  </div>
+</div>
+</body>
+</html>
+```"
+"What will be the effect of adding 'd-lg-none' to the 'menu-item-card' class?
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""menu-item-card shadow p-3 mb-3"">Good morning</div>
+</body>
+</html>
+```"
+"Analyze the following HTML snippet. Which statement is true regarding the Bootstrap navigation links?
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<nav class=""navbar navbar-expand-lg navbar-light bg-light"">
+  <a class=""navbar-brand"" href=""#home"">Home</a>
+  <button class=""navbar-toggler"" type=""button"" data-toggle=""collapse"" data-target=""#navbarNav"" aria-controls=""navbarNav"" aria-expanded=""false"" aria-label=""Toggle navigation"">
+    <span class=""navbar-toggler-icon""></span>
+  </button>
+  <div class=""collapse navbar-collapse"" id=""navbarNav"">
+    <ul class=""navbar-nav"">
+      <li class=""nav-item active"">
+        <a class=""nav-link"" href=""#features"">Features</a>
+      </li>
+      <li class=""nav-item"">
+        <a class=""nav-link"" href=""#pricing"">Pricing</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+</body>
+</html>
+```"
+"If a `<div>` element with a custom class is nested inside a `<nav>` with the 'fixed-top' class, how will the `<div>` be displayed in the following code?
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+  <nav class=""navbar fixed-top"">
+    <div class=""custom-class"">Nested Content</div>
+  </nav>
+</body>
+</html>
+```"
+"Can the Bootstrap order classes be combined with responsive breakpoints to change the visual order on different screen sizes?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""d-flex"">
+  <div class=""order-1 order-md-2"">First</div>
+  <div class=""order-2 order-md-1"">Second</div>
+</div>
+</body>
+</html>
+```"
+"If an element has the classes 'd-none d-md-inline d-lg-block', what will be its display property on a medium device?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<span class=""d-none d-md-inline d-lg-block"">Text</span>
+</body>
+</html>
+```"
+"Analyze the following HTML snippet using Bootstrap. What will be the visual outcome of the flex properties applied?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""d-flex align-items-center"">
+  <div class=""order-3 p-2"">First item</div>
+  <div class=""order-1 p-2"">Second item</div>
+  <div class=""order-2 p-2"">Third item</div>
+</div>
+</body>
+</html>
+```"
+"Given the HTML structure and CSS rules, which selector will override the border-radius for the '.custom-button' class when it is hovered?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<button class=""custom-button"">Click Me</button>
+</body>
+</html>
+```
+```css
+  .custom-button {
+  border-radius: 8px;
+}
+.custom-button:hover {
+  border-radius: 12px;
+}
+button:hover {
+  border-radius: 10px;
+}
+```"
+"What will be the flex-direction of the container using the following Bootstrap 4 classes?
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""d-flex flex-column flex-md-row"">
+  <div>Flex item 1</div>
+  <div>Flex item 2</div>
+</div>
+</body>
+</html>
+```"
+"Examine the HTML and CSS code. If the viewport is resized to a medium-sized device's width, what will be the display status of the element with the 'special-content' class?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""container"">
+  <div class=""row"">
+    <div class=""col-12 d-md-none special-content"">Special Content</div>
+  </div>
+</div>
+<style>
+</body>
+</html>
+```
+```css
+ .special-content { display: none; }
+  .d-md-none { display: none !important; }
+```"
+"What happens if the .order-3 class is applied to multiple elements within the same flex container?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""d-flex"">
+  <div class=""order-1"">First</div>
+  <div class=""order-3"">Second</div>
+  <div class=""order-3"">Third</div>
+</div>
+</body>
+</html>
+```"
+"Given the HTML structure with Bootstrap classes, which element will be hidden on all screen sizes?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""container"">
+  <div class=""row"">
+    <div class=""col-md-6 d-none"">Content A</div>
+    <div class=""col-md-6"">Content B</div>
+  </div>
+</div>
+</body>
+</html>
+```"
+"In the provided HTML code with Bootstrap classes, which statement accurately reflects the behavior of the display utilities?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div >Hello</div>
+  <div class=""d-none d-md-inline"">Inline on medium and larger devices</div>
+  <div class=""d-inline d-lg-none"">Inline on small and medium devices</div>
+</body>
+</html>
+```"
+"Assuming the following code, what will be the border-radius of the '.btn' class after the CSS is processed?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<button class=""btn special"">Click Me</button>
+<button class=""btn"">Click Me</button>
+</body>
+</html>
+```
+```css
+  .btn {
+  border-radius: 12px;
+}
+.btn.special {
+  border-radius: 0;
+}
+```"
+"Analyze the following HTML snippet and Bootstrap classes. Which statement is correct regarding the positioning of the '.fixed-bottom' element?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""container"">
+    <div class=""fixed-bottom bg-primary text-white p-3"">
+      This is a fixed bottom element.
+    </div>
+  </div>
+</body>
+</html>
+```"
+"Examine the Bootstrap HTML code below. Which statement is accurate regarding the behavior of the 'View Menu' and 'Order Now' buttons when custom CSS is applied?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""container"">
+    <button class=""btn btn-secondary"">View Menu</button>
+    <button class=""btn btn-info custom-order"">Order Now</button>
+  </div>
+</body>
+</html>
+```"
+"Examine the code snippet. If you want to increase the border-radius of the '.custom-outline-button' class to 20px when it is the last child of its parent, which CSS rule should be added?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div>
+  <button class=""custom-button"">Button 1</button>
+  <button class=""custom-outline-button"">Button 2</button>
+</div>
+</body>
+</html>
+```
+```css
+ .custom-outline-button {
+  border-radius: 8px;
+}
+```"
+"Given the following HTML structure with Bootstrap classes, which statement is correct regarding the positioning of the footer?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""container"">
+    <!-- Content here -->
+  </div>
+  <footer class=""fixed-bottom bg-dark text-white p-3"">
+    Footer Content
+  </footer>
+</body>
+</html>
+```"
+"What will be the visibility of the following elements in a Bootstrap layout when viewed on a small device?
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+ <div class=""container"">
+  <div class=""d-none d-sm-block"">Small Device</div>
+  <div class=""d-none d-md-block"">Medium Device</div>
+</div>
+</body>
+</html>
+```"
+"Given the following HTML structure with Bootstrap classes, identify the correct statements about the behavior and styling of the links:
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<div class=""container"">
+    <div class=""list-group"">
+      <a href=""#item1"" class=""list-group-item list-group-item-action active"">Item 1</a>
+      <a href=""#item2"" class=""list-group-item list-group-item-action"">Item 2</a>
+      <a href=""#"" class=""list-group-item list-group-item-action disabled"">Item 3</a>
+    </div>
+    <div id=""item1"">Content for Item 1</div>
+    <div id=""item2"">Content for Item 2</div>
+  </div>
+</body>
+</html>
+```"
+"Examine the following Bootstrap navigation bar. Which statement is true about the behavior of the links when clicked?
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel=""stylesheet"" href=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"" integrity=""sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"" crossorigin=""anonymous""/>
+    <script src=""https://code.jquery.com/jquery-3.5.1.slim.min.js"" integrity=""sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"" crossorigin=""anonymous""></script>
+    <script src=""https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"" integrity=""sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"" crossorigin=""anonymous""></script>
+    <script src=""https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"" integrity=""sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"" crossorigin=""anonymous""></script>
+  </head>
+<body>
+<nav class=""navbar navbar-expand-sm bg-dark navbar-dark"">
+  <ul class=""navbar-nav"">
+    <li class=""nav-item"">
+      <a class=""nav-link"" href=""#section1"">Section 1</a>
+    </li>
+    <li class=""nav-item"">
+      <a class=""nav-link"" href=""#section2"">Section 2</a>
+    </li>
+  </ul>
+</nav>
+<section id=""section1"" class=""container-fluid"">
+  <h1>Section 1</h1>
+</section>
+<section id=""section2"" class=""container-fluid"">
+  <h1>Section 2</h1>
+</section>
+</body>
+</html>
+```"
+In the HTML5 Geolocation API, which method is used to get the current position of the user, as they move?
+Which of the following is a Global attribute in HTML?
+What does the value parameter in an HTML attribute represent?
+How should the value of an HTML attribute be written?
+In <meta name="viewport" content="width=device-width, initial-scale=1"> the initial-scale=1 part sets
+How can you make a list that lists its items with squares?
+How do you define a base URL for a webpage in HTML5?
+"Choose the correct option based on the given statements:
+Statement 1: The 'display:none;'  removes the element from document flow and does not take up ay space on the page
+Statement 2: The 'visibility:hidden;'  removes the element from document flow and does not take up ay space on the page"
+How to set a font for a whole page?
+Which property allows an image link to show a text label?
+Which HTML attribute is used to define inline styles?
+In what cases will the style for the selector "div + p { color: red; }" be applied?
+Where are the attributes placed in an HTML element?
+What is the purpose of an attribute in HTML?
+"You have a snippet of CSS code that you want to apply to several div elements in an HTML document.
+What attribute should you add to these divs so they all receive this style?"
+How many parameters does an HTML attribute take?
+In HTML, what is the purpose of the defer attribute when including a JavaScript file using the <script> tag?
+Choose the correct HTML code to create an email link?
+"You are designing a webpage and want to create a two-column
+layout using CSS float properties. You have a main content
+container with an ID of main and a sidebar container with an ID
+of sidebar.
+
+####How would you correctly apply the float property to create a two-column layout?"
+Which of the given attribute triggers an event when an element gets user input?
+How can the HTML hidden attribute be used to improve user experience, and in what scenarios is it beneficial?
+"You can create a progress bar like the one shown below using: 
+
+`<progress id=""file"" __________=""50"" max=""100""> 50% </progress>`
+
+Installation progress: <progress id=""file"" value=""50"" max=""100""> 50% </progress>
+
+Which attribute is required in the blank space?"
+What is the default value of offset in HTML?
+What does the Alpha value in RGBA represent?
+In HTML, what is the purpose of the `defer` attribute in a `<script>` tag?
+Which tag can you use to define multiple media elements?
+"Consider the following HTML and CSS code snippets and an image of a custom-styled checkbox.
+
+
+```html
+<!DOCTYPE html>
+<html Lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Custom Checkbox</title>
+    <link rel=""stylesheet"" href=""styles.css"">
+</head>
+<body>
+    <label class=""custom-checkbox"">
+        <input type=""checkbox"">
+        <span class=""checkmark""></span>
+    </label>
+</body>
+</html>
+```
+
+```CSS
+
+.custom-checkbox {
+    position: relative;
+    display: inline-block;
+}
+.checkmark {
+     position: absolute;
+     top: 0;
+     left: 0;
+     height: 25px;
+     width: 25px;
+     background-color: #eee;
+}
+input [type=""checkbox""] :checked ~ .checkmark {
+     background-color: #2196F3;
+}
+```
+
+What change must be made to the CSS code to add a checkmark icon inside the checkbox when it's checked?"
+Which attribute is used to give a HTML element a unique name?
+Which of the following colors has the same amount of RBG?
+Which of the following is required to create a HTML page?
+Why is it important to use semantic HTML?
+What is the correct format for defining an HTML attribute?
+What are the objects utilized to store data on the client-side, as offered by HTML's local storage?
+What does HTML stand for?
+What is the HTML style attribute's purpose?
+What is the correct syntax of doctype in HTML5?
+Select all valid doctype statements in HTML.
+Which of the following symbols is used to enclose HTML tags?
+What is the purpose of a doctype in HTML?
+In HTML5, which of the following tag is used to initialize the document type?
+What does HTML stand for?
+What is the correct syntax to write an HTML comment?
+What is HTML used for?
+What is the purpose of the iframe element in HTML? (Easy, MCQ)
+Which of the following is correct about HTML?
+What does the doctype declaration specify?
+What does SGML stand for?
+The root element of an HTML page is which of the following?
+Which statement is true regarding the difference between <iframe> and <embed> tags in HTML? (Hard, MCQ)
+HTML can be rendered and read by?
+What does XHTML stand for?
+Which of the following statements is false?
+What is the difference between an HTML tag and an HTML element?
+Which part of an HTML attribute specifies the type of additional information being provided to the element?
+How is the DOCTYPE for HTML5 written?
+Imagine you're building a secure website where users can submit confidential information through forms. To ensure no one else can peek at that data, you need a secret "handshake" between the form and the server. How does the developer send this special code (called a security token) from the form to the server when the user submits it?
+Which of the following attributes gives an unique name to the given element?
+The CSS used within HTML elements in connection with the style attribute is referred to as?
+What is the proper syntax for a HTML comment?
+Is the DOCTYPE for HTML5 case-sensitive?
+Which tag is used to specify the character encoding for an HTML document?
+What are the primary technologies of any functional website regarding the front end?
+What is HTML?
+Which of the following tags in HTML5 is used to initialize the document type?
+HTML files are saved by default with the _________________ extension.
+What happens on the webpage if a background image is smaller than the screen on which it is displayed?
+What is the purpose of HTML?
+HTML stands for?
+What is the role of the markup language in HTML?
+The most fundamental component of any HTML page is?
+What does MathML stand for?
+What does Hyperlink define in HTML?
+What characteristics do block-level elements have?
+What does an empty tag in HTML mean?
+<!DOCTYPE html> specifies that the document is HTML5, ensuring that browsers render the page correctly.
+Which of the following is an example of a properly formatted HTML attribute?
+Which of the following tags is used to indicate the start and endpoints of the page?
+What does the doctype tell the browser about?
+What are some valid character sets available?
+What does XML stand for?
+Which of the following is a restriction when using an iframe? (Medium, MCQ)
+In HTML, which property is used to specify border colors?
+Is the doctype an element or tag in HTML?
+What does KML stand for?
+The tags in HTML are?
+What restriction applies to scripting across different origins in iframes? (Hard, MCQ)
+What do we use for captioning of image?
+What is enclosed between the start and end tags of an HTML element?
+Which of the following is true about HTML tags?
+What is the correct way to connect a map attribute with an <img> tag?
+"You are working to update a legacy document written in an older version of HTML. 
+Which of the following elements are deprecated in HTML5?"
+You can achieve multiple input options using which of the following elements?
+Which HTML tag is used to define emphasized text or statements?
+Which of the following is not  semantic element for text in HTML5?
+What HTML tags are used to define subscript and superscript text, respectively? (Easy, MCQ)
+Choose the option that correctly represents an HTML element and its tags.
+Which of the following is a correct usage of the <meta> tag for specifying the viewport in a responsive web design?
+Which tag is used to specify a footer for a document or section?
+You want to display the word “Hello” in the default color on your web page. Which of the following code snippets should you use?
+"We can set a clickable area on an image using the map attribute.
+What is the correct way to connect a map attribute with an
+<img> tag?"
+What is the correct way to connect a map attribute with an <img> tag?
+"How do you create this text in HTML?
+
+**Football** is the most populal sport in the world."
+Which of the following is the correct syntax for defining the email field in HTML?
+Which of the following tags is used to insert a line break in HTML?
+How do you load an entire video when the web page is loaded?
+Which of the following statements about the ```<link>``` tag is false?
+Which of the following are the attributes of a tag?
+What should be the same in the anchor tag and the section tag for redirection to work?
+Which of the following statements about the `<span>` tag is true?
+In an HTML document, the correct sequence of the tags for starting a web page is:
+In HTML, how are quotations defined?
+According to the specifications, how many head tags are allowed in an HTML page?
+Swami wants to add attributes to form tags, which of the following is not an attribute of the tag?
+Which character is used to represent the closing of a tag in HTML?
+What is the syntax for the HTML strong tag?
+What symbol is used in the href attribute to redirect to a section on the same page?
+Apart from <i> tag, which of the following tag is used to render a text in italics?
+"Which HTML code snippet matches the following structure?
+<br>
+<img src=""https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/pre-placement-talk-section/images/Alt-mobility/submit.png"" alt=""image"" /> 
+<br>"
+How to display preformatted text in HTML?
+With the `<_____>` tag you can emphasize text.
+What is the purpose of the <em> tag in HTML?
+Which function is similar to the `<b>` element?
+Which HTML tag is used to define a text in technical terms, alternative mood or voice, a thought, etc.?
+Which HTML tag is used to make the text bold presentationally to draw attention?
+"To specify the language of your HTML5 document, you intend to add a <meta> tag.
+
+Where in the document should this tag be placed?"
+HTML5 element <canvas> can be used to:
+What HTML tag should be used to declare internal CSS?
+Which HTML tag is used to declare internal CSS?
+Which tag is used with JavaScript?
+"How do you place an image and its caption,as shown below?
+<br>
+<img src=""https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/pre-placement-talk-section/images/Alt-mobility/flower.png"" alt=""image"" /> 
+<br>"
+Which of the following is used to create an Ordered list in HTML?
+"The below image and caption were created with the code underneath. 
+
+What is the right tag for the blank?
+
+<img src=""https://res.cloudinary.com/dlvqtn2oe/image/upload/v1747648760/html_qcidhw.png"" width=""250"" />
+
+<figcaption>Fig.1 - HTML5</figcaption>
+
+```
+<figure>
+    <img src=""html5.png"" alt=""html5"" height=""200"" width=""200"" />
+    <_____>Fig.1 - HTML5</_____>
+</figure>
+```"
+Which HTML element is used to define description data?
+You want to define a group of related options within a select element, Which HTML element should you use?
+You are designing a webpage and need to target all checkboxes in a form and apply styling only to those checkboxes that are checked. Which CSS attribute selector should you use for this task?
+What is the path for an image located in same folder as the current page?
+In the meta tag for viewport, what does initial-scale=1.0 signify?
+In terms of RGB values, how is black represented?
+What is the structure of an HTML element?
+Which of the following HTML attributes defines inline styles?
+What is the purpose of the HTML `<p\icture>` tag?
+Which of the following input attributes is used to check user input against a regular expression?
+Which HTML element is responsible for navigation links?
+By default, do the <i> and <em> tags in HTML produce the same visual result?
+Which of the following represents the easiest way to create an image grid or gallery in HTML?
+Which of the following file format is used to support an HTML audio tag?
+What is the purpose of the HTML strong tag?
+What is written between < and > in HTML?
+What is the main difference between the <i> and <em> tags in HTML?
+You're making a software guide and want to show some code. You styled it with CSS, but now you want to use special HTML tags that tell the computer it's code. Which tags should you use?
+What is the purpose of the <title> tag in an HTML document?
+Select the appropriate HTML element for the largest heading.
+What is the main difference between the HTML bold tag and the strong tag?
+What is the starting symbol of an HTML tag?
+Choose the correct usage of the <sup> tag in HTML. (Medium, MCQ)
+Which of the following statements about canvas and SVG is true?
+"You want to add a method to all elements on a document via a <script> tag.
+ To what class should you add the method?"
+What will you use to include favicon file in your HTML documents?
+Which tag can you use to define multiple media elements?
+Which HTML tag defines an internal style sheet?
+What is the correct syntax for referring an external CSS?
+"<br>
+<canvas id=""myCanvas"" width=""200"" height=""100"" style=""border:1px solid #000000;"">
+</canvas>
+<br>
+
+Which of the following elements can be used to draw a rectangle ,like the above condition?"
+What attribute is used in the section tag to redirect to that section?
+Which of the following statements about the <link> tag is false?
+Which HTML tag is used to embed external content, such as a YouTube video?
+Which of the following is the HTML paragraph tag?
+Which of the following are HTML block-level elements?
+How to Change the Font on an Entire Page?
+What is the end symbol of an HTML tag?
+Which cursor property indicates that the program is active?
+In HTML, which property is used to specify color?
+Which of the following is the HTML document's root tag?
+How do you define the size of a text area element?
+Which tag requires a closing tag?
+Which of the following is the correct HTML style attribute syntax?
+Which is the only mandatory attribute of the <map> HTML tag?
+In HTML, which of the following is used to add a background color?
+If a font doesn't have bold or italic options, which of the following choices tells the browser if it can create bold or slanted (oblique) versions of the font?
+What does the HTML `<aside>` element mean?
+What is the correct way to connect a map attribute with an <img> tag?
+By default, can you set the width and height of an inline element like <span> using CSS?
+What is the purpose of the select tag?
+What is the purpose of the anchor tag in HTML?
+How do you place one HTML page inside another?
+Which of the following is responsible for selecting a normal or small-caps face from a font family?
+Which of the following properties is used to modify text font?
+You want to implement a call-out box using semantic HTML. The content of the box is only indirectly related to the main content of the page. What element is most appropriate in this scenario?
+Which of the following is/are valid?
+What is the correct HTML element for playing video files?
+Which of the following are valid types for buttons?
+What is the purpose of the <i> tag in HTML?
+You are making a container with a card on a webpage, and you want to give it a header by using the default snippets options. Which of the following code snippets should you use?
+Which of the following elements is considered a semantic HTML element?
+How do you place one HTML page inside another?
+Which one is the bootstrap JS CDN url?
+Which of the following values in the font attribute is supposed to be a slightly bolder than standard bold?
+You want to define a thematic break to visually separate sections with in your HTML document. Which HTML element should you use?
+Which attribute is mandatory when using the <param> HTML tag?
+"How do you create the formatted text below?
+
+<p>This is a <mark>Formatted</mark> text</p>"
+What is the correct HTML for creating a hyperlink?
+A web page within a web page is displayed using an `<iframe>`.
+What is the syntax for the HTML bold tag?
+"what is the suitable tag to strike through a chunk of text,like below?
+<br>
+The price of the watch is <s>75</s> ,69
+<br>"
+Which of the following tags doesn’t require a closing tag?
+What do you mean by vlink?
+Which is the best method for opening a link in a new tab or browser window?
+Which of the following is not a font-style property value?
+Which of the following is an example of a semantic tag in HTML5?
+"The following image shows how to divide a select tag into groups.<br>
+<img src=""https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/pre-placement-talk-section/images/Alt-mobility/optgroup.png"" alt=""image"" /> 
+<br>
+The following code is used to create it:<br>
+<img src=""https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/placement-happenings/pre-placement-talk-section/images/Alt-mobility/htmlcode.png"" alt=""image"" /> 
+<br>
+What is the suitable tag to use in the blank space?"
+What HTML element should be used to insert a line break?
+"How do you create this text in HTML?
+<br>
+<strong>Football</strong> is the most popular sport in the world
+</br>"
