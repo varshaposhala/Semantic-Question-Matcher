@@ -1,9 +1,10 @@
-# app.py (Self-contained, handles MULTIPLE custom formats)
+# app.py (Users must provide their own API key)
 
 import os
 import streamlit as st
 import google.generativeai as genai
-from dotenv import load_dotenv
+# We no longer need dotenv as we won't be loading a .env file
+# from dotenv import load_dotenv
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
@@ -12,29 +13,30 @@ from typing import List
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
     page_title="Semantic Question Matcher",
-    page_icon="🤖",
+    page_icon="🔑",
     layout="wide"
 )
 
-# --- GEMINI API CONFIGURATION ---
+# --- API KEY HANDLING ---
 st.sidebar.title("Configuration")
+st.sidebar.markdown("This tool requires your own Google Gemini API key to function.")
 api_key_input = st.sidebar.text_input(
-    "Enter your Google Gemini API Key",
+    "Enter your Google Gemini API Key here",
     type="password",
     help="You can get your API key from Google AI Studio."
 )
 
-if not api_key_input:
-    load_dotenv()
-    api_key_from_env = os.getenv('GEMINI_API_KEY')
-    if api_key_from_env:
-        genai.configure(api_key=api_key_from_env)
-    else:
-        st.sidebar.warning("Please enter your API Key or set it in a .env file.")
-else:
-    genai.configure(api_key=api_key_input)
+# <<< --- CHANGE 1: REMOVED THE FALLBACK LOGIC --- >>>
+# The app will now ONLY work if the user provides a key in the text box.
+# The code that used load_dotenv() and os.getenv() has been removed.
 
-EMBEDDING_MODEL = 'models/embedding-001'
+api_configured = False
+if api_key_input:
+    try:
+        genai.configure(api_key=api_key_input)
+        api_configured = True
+    except Exception as e:
+        st.sidebar.error(f"Failed to configure API: {e}")
 
 # --- CORE FUNCTIONS (with Caching) ---
 @st.cache_data(show_spinner=False)
@@ -45,20 +47,28 @@ def get_embeddings(texts: List[str]) -> np.ndarray:
         result = genai.embed_content(model=EMBEDDING_MODEL, content=texts)
         return np.array(result['embedding'])
     except Exception as e:
-        st.error(f"Error getting embeddings: {e}")
+        # We need to use st.error here as this function is cached and isolated
+        st.error(f"An error occurred while getting embeddings. Please check your API key and network connection. Details: {e}")
         return np.array([])
 
 # --- UI LAYOUT ---
-st.title("🤖 Semantic Question Matcher")
-st.write("Enter your master questions using the specified format. The app will find the most similar master question for each of your new questions.")
+st.title("🔑 Semantic Question Matcher")
+st.write("Enter your master questions and their subtopics. Then, enter the questions you want to match. **This tool uses your own API key for all calculations.**")
+
+# <<< --- CHANGE 2: MAIN APP LOGIC IS NOW GATED BY API KEY --- >>>
+if not api_configured:
+    st.info("Please enter a valid Google Gemini API key in the sidebar to begin.")
+    st.stop() # This command stops the rest of the script from running
+
+# The rest of the app will only render and run if the API key is successfully configured
+EMBEDDING_MODEL = 'models/embedding-001'
 
 col1, col2 = st.columns(2)
 
 with col1:
     st.header("Master Questions")
-    # <<< --- CHANGE 1: UPDATED PLACEHOLDER TO SHOW BOTH FORMATS --- >>>
     master_questions_text = st.text_area(
-        "Enter one entry per line using the supported formats",
+        "Enter one entry per line using your custom format",
         height=300,
         placeholder="Format 1: Why is my animation lagging?<br>\tSUB_TOPIC_JS_PERFORMANCE\nFormat 2: How do I center a div?\tSUB_TOPIC_CSS_LAYOUT"
     )
@@ -73,7 +83,6 @@ with col2:
 
 st.markdown("---")
 
-# --- CONTROLS AND ACTION BUTTON ---
 similarity_threshold = st.slider(
     "Similarity Score Threshold",
     min_value=0.0,
@@ -84,28 +93,23 @@ similarity_threshold = st.slider(
 )
 
 if st.button("Find Similar Questions", type="primary", use_container_width=True):
-    # <<< --- CHANGE 2: ROBUST PARSING LOGIC FOR MULTIPLE DELIMITERS --- >>>
+    # Parsing logic remains the same
     master_questions = []
     master_subtopics = []
-    # Define the possible delimiters, from most specific to least specific
     delimiter1 = "<br>\tSUB_TOPIC_"
     delimiter2 = "\tSUB_TOPIC_"
 
     for line in master_questions_text.split('\n'):
         if line.strip():
             question, subtopic = "", "N/A"
-            # We must check for the longer, more specific delimiter FIRST.
             if delimiter1 in line:
                 parts = line.split(delimiter1, 1)
                 question, subtopic = parts[0].strip(), parts[1].strip()
-            # If the first one isn't found, check for the second one.
             elif delimiter2 in line:
                 parts = line.split(delimiter2, 1)
                 question, subtopic = parts[0].strip(), parts[1].strip()
-            # If neither delimiter is found, treat the whole line as a question.
             else:
                 question = line.strip()
-
             master_questions.append(question)
             master_subtopics.append(subtopic)
 
@@ -114,7 +118,7 @@ if st.button("Find Similar Questions", type="primary", use_container_width=True)
     if not master_questions or not generated_questions:
         st.warning("Please enter questions in both text areas.")
     else:
-        with st.spinner("Calculating embeddings and similarities... This may take a moment."):
+        with st.spinner("Calculating embeddings and similarities using your API key..."):
             master_embeddings = get_embeddings(master_questions)
             generated_embeddings = get_embeddings(generated_questions)
 
