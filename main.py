@@ -1,10 +1,10 @@
-# main.py (with batch processing and threshold filtering)
+# main.py (COMPLETE - with batch processing, threshold, and subtopics)
 
 import os
 import uvicorn
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-from typing import List
+from typing import List, Optional
 import google.generativeai as genai
 from dotenv import load_dotenv
 import sqlalchemy as db
@@ -12,7 +12,7 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 import json
 
-# --- INITIAL SETUP (No changes here) ---
+# --- INITIAL SETUP ---
 load_dotenv()
 API_KEY = os.getenv('GEMINI_API_KEY')
 if not API_KEY:
@@ -20,37 +20,46 @@ if not API_KEY:
 
 genai.configure(api_key=API_KEY)
 EMBEDDING_MODEL = 'models/embedding-001'
-DATABASE_FILE = 'questions.db'
+DATABASE_FILE = 'questions.db' # This was the missing variable
 
-# --- IN-MEMORY DATA STORE AND DB LOADING (No changes here) ---
+# --- IN-MEMORY DATA STORE AND DB LOADING ---
 master_data = {}
-engine = db.create_engine(f'sqlite:///{DATABASE_FILE}')
+engine = db.create_engine(f'sqlite:///{DATABASE_FILE}') # Now this line will work
 
 def load_master_data_from_db():
     global master_data
     master_data = {}
     try:
         with engine.connect() as connection:
-            result = connection.execute(db.text("SELECT question_text, embedding FROM master_questions"))
+            # Select the question_text, subtopic, and embedding columns
+            query = db.text("SELECT question_text, subtopic, embedding FROM master_questions")
+            result = connection.execute(query)
+            
             all_embeddings = []
             all_texts = []
+            all_subtopics = [] # New list to hold subtopics
+            
             for row in result:
                 all_texts.append(row.question_text)
+                all_subtopics.append(row.subtopic) # Store the subtopic
+                # Parse the embedding string from the DB back into a Python list
                 parsed_embedding = json.loads(row.embedding)
                 all_embeddings.append(parsed_embedding)
             
+            # Add all data to the in-memory store
             master_data = {
                 "texts": all_texts,
+                "subtopics": all_subtopics,
                 "embeddings": np.array(all_embeddings)
             }
 
         if not master_data.get("texts"):
             print("WARNING: Master data is empty. Did you run precompute_embeddings.py?")
         else:
-            print(f"Successfully loaded {len(master_data['texts'])} master questions into memory.")
+            print(f"Successfully loaded {len(master_data['texts'])} master questions (with subtopics) into memory.")
     except Exception as e:
         print(f"CRITICAL ERROR: Could not load data from database. {e}")
-        print("Please ensure 'questions.db' exists and you have run 'precompute_embeddings.py'.")
+        print("Please ensure 'questions.db' exists and was created with the 'subtopic' column.")
 
 # --- FASTAPI APPLICATION ---
 app = FastAPI(title="Semantic Match API")
@@ -59,16 +68,15 @@ app = FastAPI(title="Semantic Match API")
 def startup_event():
     load_master_data_from_db()
 
-# --- Request and Response Models for Batching ---
-
-# <<< --- CHANGE 1: ADD AN OPTIONAL THRESHOLD TO THE REQUEST --- >>>
+# --- Request and Response Models ---
 class BatchMatchRequest(BaseModel):
     questions: List[str]
-    similarity_threshold: float = 0.9 # Default to 0.9 if not provided
+    similarity_threshold: float = 0.9
 
 class MatchResult(BaseModel):
     original_question: str
     best_match_question: str
+    matched_subtopic: Optional[str] = None # The subtopic of the matched question
     similarity_score: float
 
 class BatchMatchResponse(BaseModel):
@@ -91,13 +99,16 @@ def find_batch_matches(request: BatchMatchRequest):
     for i, original_question in enumerate(request.questions):
         best_match_index = np.argmax(similarity_matrix[i])
         best_score = similarity_matrix[i][best_match_index]
-        best_match_text = master_data['texts'][best_match_index]
         
-        # <<< --- CHANGE 2: ONLY APPEND THE RESULT IF THE SCORE IS HIGH ENOUGH --- >>>
         if best_score >= request.similarity_threshold:
+            best_match_text = master_data['texts'][best_match_index]
+            # Retrieve the subtopic using the same index
+            best_match_subtopic = master_data['subtopics'][best_match_index]
+            
             batch_results.append(MatchResult(
                 original_question=original_question,
                 best_match_question=best_match_text,
+                matched_subtopic=best_match_subtopic, # Add it to the result object
                 similarity_score=float(best_score)
             ))
 
