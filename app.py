@@ -10,6 +10,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 from typing import List
 
+st.cache_data.clear()
+
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
     page_title="Semantic Question Matcher",
