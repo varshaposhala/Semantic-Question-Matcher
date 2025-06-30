@@ -3,8 +3,6 @@
 import os
 import streamlit as st
 import google.generativeai as genai
-# We no longer need dotenv as we won't be loading a .env file
-# from dotenv import load_dotenv
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
@@ -28,10 +26,6 @@ api_key_input = st.sidebar.text_input(
     help="You can get your API key from Google AI Studio."
 )
 
-# <<< --- CHANGE 1: REMOVED THE FALLBACK LOGIC --- >>>
-# The app will now ONLY work if the user provides a key in the text box.
-# The code that used load_dotenv() and os.getenv() has been removed.
-
 api_configured = False
 if api_key_input:
     try:
@@ -49,7 +43,6 @@ def get_embeddings(texts: List[str]) -> np.ndarray:
         result = genai.embed_content(model=EMBEDDING_MODEL, content=texts)
         return np.array(result['embedding'])
     except Exception as e:
-        # We need to use st.error here as this function is cached and isolated
         st.error(f"An error occurred while getting embeddings. Please check your API key and network connection. Details: {e}")
         return np.array([])
 
@@ -57,12 +50,10 @@ def get_embeddings(texts: List[str]) -> np.ndarray:
 st.title("🔑 Semantic Question Matcher")
 st.write("Enter your master questions and their subtopics. Then, enter the questions you want to match. **This tool uses your own API key for all calculations.**")
 
-# <<< --- CHANGE 2: MAIN APP LOGIC IS NOW GATED BY API KEY --- >>>
 if not api_configured:
     st.info("Please enter a valid Google Gemini API key in the sidebar to begin.")
-    st.stop() # This command stops the rest of the script from running
+    st.stop()
 
-# The rest of the app will only render and run if the API key is successfully configured
 EMBEDDING_MODEL = 'models/embedding-001'
 
 col1, col2 = st.columns(2)
@@ -90,32 +81,40 @@ similarity_threshold = st.slider(
     min_value=0.0,
     max_value=1.0,
     value=0.75,
-    step=0.05,
+    step=0.01,
     help="Only show matches with a score equal to or higher than this value."
 )
 
 if st.button("Find Similar Questions", type="primary", use_container_width=True):
-    # Parsing logic remains the same
     master_questions = []
     master_subtopics = []
     delimiter1 = "<br>\tSUB_TOPIC_"
     delimiter2 = "\tSUB_TOPIC_"
 
-    for line in master_questions_text.split('\n'):
-        if line.strip():
-            question, subtopic = "", "N/A"
-            if delimiter1 in line:
-                parts = line.split(delimiter1, 1)
-                question, subtopic = parts[0].strip(), parts[1].strip()
-            elif delimiter2 in line:
-                parts = line.split(delimiter2, 1)
-                question, subtopic = parts[0].strip(), parts[1].strip()
-            else:
-                question = line.strip()
-            master_questions.append(question)
-            master_subtopics.append(subtopic)
+    # Allow multiline or ----separated master questions
+    if "---" in master_questions_text:
+        master_lines = [q.strip() for q in master_questions_text.split('---') if q.strip()]
+    else:
+        master_lines = [line.strip() for line in master_questions_text.splitlines() if line.strip()]
 
-    generated_questions = [q.strip() for q in generated_questions_text.split('\n') if q.strip()]
+    for line in master_lines:
+        question, subtopic = "", "N/A"
+        if delimiter1 in line:
+            parts = line.split(delimiter1, 1)
+            question, subtopic = parts[0].strip(), parts[1].strip()
+        elif delimiter2 in line:
+            parts = line.split(delimiter2, 1)
+            question, subtopic = parts[0].strip(), parts[1].strip()
+        else:
+            question = line.strip()
+        master_questions.append(question)
+        master_subtopics.append(subtopic)
+
+    # Accept both line-by-line and --- separated format
+    if "---" in generated_questions_text:
+        generated_questions = [q.strip() for q in generated_questions_text.split('---') if q.strip()]
+    else:
+        generated_questions = [q.strip() for q in generated_questions_text.splitlines() if q.strip()]
 
     if not master_questions or not generated_questions:
         st.warning("Please enter questions in both text areas.")
@@ -126,12 +125,11 @@ if st.button("Find Similar Questions", type="primary", use_container_width=True)
 
             if master_embeddings.size > 0 and generated_embeddings.size > 0:
                 similarity_matrix = cosine_similarity(generated_embeddings, master_embeddings)
-                
                 results = []
                 for i, gen_q in enumerate(generated_questions):
                     best_match_index = np.argmax(similarity_matrix[i])
                     best_score = similarity_matrix[i][best_match_index]
-                    
+
                     if best_score >= similarity_threshold:
                         results.append({
                             "Your Question": gen_q,
